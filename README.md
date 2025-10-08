@@ -27,25 +27,23 @@
 |U18, U20|74LS32|2|若松通商等|
 |U19|74LS08|1|若松通商等|
 |U21|74LS00|1|若松通商等|
-||2x20フラットケーブル|1|10cm程度|
+||2x20フラットケーブル|1|15cm程度|
 ||2x5フラットケーブル|1|20cm程度|
 
 ## ボードの完成写真
 ![MZ80B_GRAM1_01](https://github.com/yanataka60/MZ-80B_GRAM1/blob/main/JPEG/MZ80B_GRAM1_01.jpg)
 
 ## 取付方法
-2x5Pinケーブルはマザーボートと同じ向きに挿します。手前左を1Pinとすればボードのピンソケットも手前左が1Pinとなるように接続します。
+ケーブルは1Pinの△マークを合わせて接続します。マザーボート上で2x5Pinケーブルなら手前左に1Pinの△マークがあり、2x20Pinケーブルは、右奥に1Pinの△マークがあります。
 
 ![MZ80B_GRAM1_02](https://github.com/yanataka60/MZ-80B_GRAM1/blob/main/JPEG/MZ80B_GRAM1_02.jpg)
 
 ![MZ80B_GRAM1_03](https://github.com/yanataka60/MZ-80B_GRAM1/blob/main/JPEG/MZ80B_GRAM1_03.jpg)
 
-2x20ピンソケットは足の長い連結用ピンソケットを使うことでケーブルの干渉を避けることができます。
-
 ![MZ80B_GRAM1_04](https://github.com/yanataka60/MZ-80B_GRAM1/blob/main/JPEG/MZ80B_GRAM1_04.jpg)
 
 ![MZ80B_GRAM1_05](https://github.com/yanataka60/MZ-80B_GRAM1/blob/main/JPEG/MZ80B_GRAM1_05.jpg)
 
-マザーボードのピンソケットに合わせてGRAM1ボードを挿し込みます。
+上筐体の裏側にGRAM1ボードを挿し込みます。
 
 ![MZ80B_GRAM1_06](https://github.com/yanataka60/MZ-80B_GRAM1/blob/main/JPEG/MZ80B_GRAM1_06.jpg)
