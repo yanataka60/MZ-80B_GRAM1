@@ -4,6 +4,12 @@
 
 　本体への装着方法は純正品と同じです。
 
+## 回路図
+　KiCadフォルダ内のMZ-80B_GRAM1.pdf参照
+
+[回路図](https://github.com/yanataka60/MZ-80B_GRAM1/blob/main/KiCAD/MZ-80B_GRAM1.pdf)
+![回路図](https://github.com/yanataka60/MZ-80B_GRAM1/blob/main/KiCAD/MZ-80B_GRAM1_1.jpg)
+
 ## 部品表
 |番号|品名|数量|備考|
 | ------------ | ------------ | ------------ | ------------ |
@@ -47,3 +53,6 @@
 上筐体の裏側にGRAM1ボードを挿し込みます。
 
 ![MZ80B_GRAM1_06](https://github.com/yanataka60/MZ-80B_GRAM1/blob/main/JPEG/MZ80B_GRAM1_06.jpg)
+
+## 追記
+2025.10.10 回路図のpdfファイルを追加した。
